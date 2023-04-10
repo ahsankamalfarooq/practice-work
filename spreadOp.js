@@ -52,22 +52,19 @@
 
 //Merge 2 OBJD
 
-const user = {
-    name : 'Bugti',
-    city:'karachi'
-}
+// const user = {
+//     name : 'Bugti',
+//     city:'karachi'
+// }
 
-const address = {
-    street : 'street-1'
-}
-const newUser = {
-    ...user,...address
-}
-console.log(newUser)
-
-
+// const address = {
+//     street : 'street-1'
+// }
+// const newUser = {
+//     ...user,...address
+// }
+// console.log(newUser)
 
 
-
-
-
+//////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////
